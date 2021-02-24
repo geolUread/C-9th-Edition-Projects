@@ -1,0 +1,2 @@
+C:\Users\arlyn\source\repos\ArrayExpander\Debug\ArrayExpander.exe
+C:\Users\arlyn\source\repos\ArrayExpander\Debug\ArrayExpander.pdb
