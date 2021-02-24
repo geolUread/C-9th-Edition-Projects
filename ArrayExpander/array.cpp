@@ -1,5 +1,5 @@
 /**
-Arlyn Harris
+GeolUread
 February 24. 2021
 Array Expander
 Write a function that accepts an int array and the array's size as arguments. The function should create a new array that is twice the size the argument array. The function should copy the contents of the argument array to a new array and initialize the unused elements of the second array with 0. The function should return a pointer to the new array.
